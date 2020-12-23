@@ -1,0 +1,14 @@
+title: false
+locale: "en-US"
+read_more: disabled
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+name: &name "Prof. Mokal-persaud"
+description: &description "personal description"
+url: nil
