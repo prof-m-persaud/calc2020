@@ -26,7 +26,7 @@
 
         table {
             border-collapse: collapse;
-            width: 105%;
+            width: 108%;
             margin-left: 3px;
             margin-right: -3px;
         }
